@@ -1,5 +1,6 @@
 # Go-Ubiquitous
 [![Crates.io](https://img.shields.io/crates/l/rustc-serialize.svg?maxAge=2592000)]()
+
 The fifth project for Udacity's Android Nanodegree.
 
 Built a watch face for Android Wear so users can access Sunshine's weather information at a glance.
